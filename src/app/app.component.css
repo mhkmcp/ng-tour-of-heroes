@@ -1,0 +1,23 @@
+h1 {
+    text-align: center;
+}
+nav {
+    display: flex;
+    justify-content: space-around;
+}
+ nav > a {
+     text-decoration: none;
+     text-align: center;
+    width: 160px;
+    padding: 10px 0px;
+    margin: 20px 10px;
+    margin-left: 0px;
+    color: whitesmoke;
+    background: rgb(17, 193, 96);
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+
+ }
